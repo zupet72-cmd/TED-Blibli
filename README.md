@@ -8,7 +8,7 @@ Aplicação de console em **C#** para gerenciar livros em estoque, devoluções 
 | [JHEMILLY ALVES] 
 | [PEDRO ZUZARTE] 
 | [PEDRO] 
-| [THIAGO] 
+| [THIAGO ESTEVES] 
 
 **Disciplina:** Algoritmos e Estrutura de Dados II
 **Professora:** [ROSANGELA SILVA]
