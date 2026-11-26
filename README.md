@@ -4,10 +4,10 @@ Aplicação de console em **C#** para gerenciar livros em estoque, devoluções 
 
 ## INTEGRANTES DO PROJETO 
 
-
+| [EDUARDO BRAZ] 
 | [JHEMILLY ALVES] 
 | [PEDRO ZUZARTE] 
-| [PEDRO] 
+| [PEDRO NICHOLAS] 
 | [THIAGO ESTEVES] 
 
 **Disciplina:** Algoritmos e Estrutura de Dados II
